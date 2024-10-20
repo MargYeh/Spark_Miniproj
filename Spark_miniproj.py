@@ -5,7 +5,7 @@ from operator import add
 # Sample data 
 #1,I,VXIO456XLBB630221,Nissan,Altima,2003,2002-05-08,Initial sales from TechMotors
 
-def extract_vin_key_value(line:str):
+def extract_vin_key_value(line):
     input = line.split(',')
     vin_number = input[2]
     make = input[3]
