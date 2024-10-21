@@ -14,10 +14,10 @@ This project uses Spark transformations to solve traditional MapReduce problems.
 # How to run:
 Set up Oracle Virtualbox with an OVA of HDP Sandbox:
 
-The download links of HDP Sandbox on VirtualBox:
-HDP 2.5.0 (https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.5.0/HDP_2.5_virtualbox.ova)
-HDP 2.6.5 (https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_virtualbox_180626.ova)
-HDP 3.0.1 (https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_virtualbox_181205.ova)
+Download links for HDP Sandbox on VirtualBox, use one to set it up:
+- HDP 2.5.0 (https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.5.0/HDP_2.5_virtualbox.ova)
+- HDP 2.6.5 (https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_virtualbox_180626.ova)
+- HDP 3.0.1 (https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_virtualbox_181205.ova)
 
 Within the shell, use the following commands:
 Load in Spark_miniproj.py using:
