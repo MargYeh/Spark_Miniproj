@@ -42,8 +42,10 @@ spark-submit Spark_miniproj.py
 
 ## Results:
 The following should be printed to the terminal 
+
 ![image](https://github.com/user-attachments/assets/613c8431-e02c-46d5-a9e8-8f62d53430d9)
 
 The output of results.txt can be shown as below:
+
 ![image](https://github.com/user-attachments/assets/30b214d8-b4f6-4196-b38b-1cd717111488)
 
